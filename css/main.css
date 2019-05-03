@@ -53,6 +53,7 @@ h1,h2,h3,h4,h5{
 .titles{
 	padding-top: 260px;
 }
+
 .titles_first{
 	font-size: 45px;
 	color: white;	
@@ -74,6 +75,7 @@ h1,h2,h3,h4,h5{
 	justify-content: center;
 	margin: 40px 0;
 }
+
 .button{
 	background: yellow;	
 	color: #484543;
@@ -94,15 +96,12 @@ h1,h2,h3,h4,h5{
 .button:hover{
 	background-color:snow;
 	color: #222222;
-
 }
 
 				/*-------Services-------*/
 
 .title{
 	padding-top: 110px;
-
-
 }
 
 .title h2{
@@ -110,18 +109,18 @@ h1,h2,h3,h4,h5{
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
-	
 }
+
 .title p{
 	color: #777777;
 	text-align: center;
 	font-size: 16px;
 }
+
 .server{
 	display: flex;
 	justify-content: space-between;
 	margin: 80px 0;
-
 }
 
 .server_item{
@@ -155,7 +154,6 @@ h1,h2,h3,h4,h5{
 	display: flex;
 	justify-content: space-around;
 	padding: 60px 0;
-
 }
 
 				/*-------About-------*/
@@ -173,14 +171,11 @@ h1,h2,h3,h4,h5{
 	display: flex;
 	align-items: center;
 	flex-direction: row-reverse;
-
-
 }
 
 .about_box.other{
 	flex-direction: row;
 	margin-left: 390px;
-
 }
 
 .about_text{
@@ -193,6 +188,7 @@ h1,h2,h3,h4,h5{
 	text-align: left;
 	margin-left: 40px;
 }
+
 .about_text h3{
 	font-size: 18px;
 	margin-bottom: 10px;
